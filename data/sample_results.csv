@@ -1,0 +1,11 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2018-06-14,Russia,Saudi Arabia,5,0,FIFA World Cup,Moscow,Russia,FALSE
+2018-06-15,Egypt,Uruguay,0,1,FIFA World Cup,Yekaterinburg,Russia,TRUE
+2018-06-15,Portugal,Spain,3,3,FIFA World Cup,Sochi,Russia,TRUE
+2018-06-16,France,Australia,2,1,FIFA World Cup,Kazan,Russia,TRUE
+2018-06-17,Germany,Mexico,0,1,FIFA World Cup,Moscow,Russia,TRUE
+2022-11-20,Qatar,Ecuador,0,2,FIFA World Cup,Al Khor,Qatar,FALSE
+2022-11-21,England,Iran,6,2,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-22,Argentina,Saudi Arabia,1,2,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-23,Germany,Japan,1,2,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-18,Argentina,France,3,3,FIFA World Cup,Lusail,Qatar,TRUE
