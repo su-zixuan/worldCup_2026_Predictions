@@ -1,6 +1,6 @@
 # 2026 FIFA World Cup Prediction Dashboard V2
 
-This is a GitHub-ready data science project for forecasting international football match results and exploring historical football data. The dashboard uses historical men's international match results, rolling team-form features, rolling Elo ratings, and an editable current-team context file for changing factors such as FIFA rank, coach tenure, squad age, injuries, roster stability, and squad market value.
+This is a data science project for forecasting international football match results and exploring historical football data. The dashboard uses historical men's international match results, rolling team-form features, rolling Elo ratings, and an editable current-team context file for changing factors such as FIFA rank, coach tenure, squad age, injuries, roster stability, and squad market value.
 
 ## Main Features
 
